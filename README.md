@@ -8,3 +8,5 @@
 [Модуль 2. Урок № 6](Dukert-Roman.github.io/lesson_6BoxInCentr/) - ценрирование в css
 
 [Модуль 3. Урок № 7](Dukert-Roman.github.io/lesson_7/src/) - мой первый сверстаный сайт
+
+[Модуль 3. Урок № 8](Dukert-Roman.github.io/homework_8) - bootstrap
