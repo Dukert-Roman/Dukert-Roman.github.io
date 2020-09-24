@@ -5,6 +5,8 @@
 
 [Модуль 2. Урок № 4](https://dukert-roman.github.io/HW_4/) - Сверстана книга
 
+[Модуль 2. Урок № 5](https://dukert-roman.github.io/HW5/) - Сверстана книга
+
 [Модуль 2. Урок № 6](https://dukert-roman.github.io/head/) - сверстаная шапка
 
 [Модуль 2. Урок № 6](Dukert-Roman.github.io/lesson_6BoxInCentr/) - ценрирование в css
