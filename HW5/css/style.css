@@ -1,0 +1,32 @@
+h2,h3,h4,h5,h6 {
+	text-align: center;
+	font-size: 20px;
+	color: red;
+}
+li {
+	list-style: decimal;
+}
+a {
+	text-decoration: none;
+	color: green;
+	background: yellow;
+}
+a:hover {
+	color: yellow;
+	background: green;
+}
+#first {
+	font-style: italic;
+}
+.second {
+	font-style: bold;
+}
+.third {
+	text-decoration: underline;
+}
+.four {
+	text-decoration: overline;
+}
+#five {
+	text-transform: uppercase;
+}
