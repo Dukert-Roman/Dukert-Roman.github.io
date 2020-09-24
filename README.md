@@ -3,6 +3,8 @@
 # Дукерт Роман
 Мои домашние задания
 
+[Модуль 2. Урок № 4](https://dukert-roman.github.io/HW4/) - Сверстана книга
+
 [Модуль 2. Урок № 6](https://dukert-roman.github.io/head/) - сверстаная шапка
 
 [Модуль 2. Урок № 6](Dukert-Roman.github.io/lesson_6BoxInCentr/) - ценрирование в css
